@@ -1,0 +1,1 @@
+C:\Users\Anton Tkach\Documents\Visual Studio 2017\Projects\CalculatorWin10.2\CalculatorWin10.2\CalculatorWin10.2.csproj;x86

@@ -22015,17 +22015,14 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "c:\\users\\anton tkach\\documents\\visual studio 2017\\Projects\\CalculatorWin10.2\\CalculatorWin10.2\\CalculatorWin10.2.csproj",
+      "projectUniqueName": "C:\\Users\\Anton Tkach\\Documents\\Visual Studio 2017\\Projects\\CalculatorWin10.2\\CalculatorWin10.2\\CalculatorWin10.2.csproj",
       "projectName": "CalculatorWin10.2",
-      "projectPath": "c:\\users\\anton tkach\\documents\\visual studio 2017\\Projects\\CalculatorWin10.2\\CalculatorWin10.2\\CalculatorWin10.2.csproj",
-      "projectJsonPath": "c:\\users\\anton tkach\\documents\\visual studio 2017\\Projects\\CalculatorWin10.2\\CalculatorWin10.2\\project.json",
+      "projectPath": "C:\\Users\\Anton Tkach\\Documents\\Visual Studio 2017\\Projects\\CalculatorWin10.2\\CalculatorWin10.2\\CalculatorWin10.2.csproj",
+      "projectJsonPath": "C:\\Users\\Anton Tkach\\Documents\\Visual Studio 2017\\Projects\\CalculatorWin10.2\\CalculatorWin10.2\\project.json",
       "projectStyle": "ProjectJson"
     },
     "dependencies": {
-      "Microsoft.NETCore.UniversalWindowsPlatform": {
-        "target": "Package",
-        "version": "[5.2.3, )"
-      }
+      "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.3"
     },
     "frameworks": {
       "uap10.0": {}
